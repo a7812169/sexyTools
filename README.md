@@ -15,3 +15,4 @@ crond是linux下用来周期性的执行某种任务或等待处理某些事件�
 检测服务器的Intel cpu硬件是否还有 meltdown漏洞， 目前linux内核版本4.15 -rc4才加装补丁 查看内核版本 uname -a 
 查看cpu 型号    cat /proc/cpuinfo | grep name | cut -f2 -d: | uniq -c
 查看cpu所有信息 cat /proc/cpuinfo
+- 环境配置  开发环境配置 HINTs[收录问题解决方案]请注明你的配置环境（格式 系统+软件版本）
